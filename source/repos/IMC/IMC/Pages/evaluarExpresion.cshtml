@@ -1,0 +1,56 @@
+﻿@page
+@model IMC.Pages.evaluarExpresionModel
+@{
+
+}
+
+<h1>Programa de ecuacion</h1>
+
+<form method="post">
+
+    <p>
+        Valor de a:
+        <input type="number" asp-for="a" />
+    </p>
+
+    <p>
+        Valor de b:
+        <input type="number" asp-for="b" />
+    </p>
+
+    <p>
+        Valor de x:
+        <input type="number" asp-for="x" />
+    </p>
+
+    <p>
+        Valor de y:
+        <input type="number" asp-for="y" />
+    </p>
+
+    <p>
+        Valor de n:
+        <input type="number" asp-for="n" />
+    </p>
+
+    <p>
+        <input type="submit" value="Calcular" />
+    </p>
+
+</form>
+
+@if (Request.Method == "POST")
+{
+    <hr />
+
+    <h3>Pasos:</h3>
+
+    @foreach (var paso in Model.pasos)
+    {
+        <p>@paso</p>
+    }
+
+    <hr />
+
+    <h2>Resultado final: @Model.resultado</h2>
+}

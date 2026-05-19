@@ -1,0 +1,37 @@
+﻿@page
+@model IMC.Pages.arregloModel
+@{
+}
+
+
+<h1>Programa de Arreglos</h1>
+
+<br />
+
+<h3>Arreglo Aleatorio</h3>
+
+@foreach (int numero in Model.numeros)
+{
+    <span>@numero </span>
+}
+
+<br />
+
+<h3>Suma: @Model.suma</h3>
+
+<h3>Promedio: @Model.promedio</h3>
+
+<br />
+
+<h3>Arreglo Ordenado</h3>
+
+@foreach (int numero in Model.ordenados)
+{
+    <span>@numero </span>
+}
+
+<br />
+
+<h3>Moda: @Model.moda</h3>
+<br />
+<h3>Mediana: @Model.mediana</h3>

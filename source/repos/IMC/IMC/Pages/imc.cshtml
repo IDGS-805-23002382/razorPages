@@ -1,0 +1,38 @@
+﻿@page
+@model IMC.Pages.imcModel
+@{
+}
+
+
+<h2>Calculadora IMC</h2>
+
+<form method="post">
+
+    <p>
+        Peso:
+        <input type="number" step="any" asp-for="peso" />
+    </p>
+
+    <p>
+        Altura:
+        <input type="number" step="any" asp-for="altura" />
+    </p>
+
+    <p>
+        <input type="submit" value="Calcular" />
+    </p>
+
+</form>
+
+@if (Model.imc != 0)
+{
+    <div>
+        <h3>IMC = @Model.imc</h3>
+
+        <h3>Clasificación: @Model.clasificacion</h3>
+
+        <img src="@Model.imagen"
+             width="300"
+             alt="Resultado IMC" />
+    </div>
+}

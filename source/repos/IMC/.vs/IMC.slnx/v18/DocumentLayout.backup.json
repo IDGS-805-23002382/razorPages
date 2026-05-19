@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\IMC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\imc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\imc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\arreglo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\arreglo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\evaluarexpresion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\evaluarexpresion.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\evaluarexpresion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\evaluarexpresion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\arreglo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\arreglo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\abc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\abc.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\pages\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\pages\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|c:\\users\\usuario\\source\\repos\\imc\\imc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{59C36849-18C8-50EE-A6AD-363FFAFEAC7F}|IMC\\IMC.csproj|solutionrelative:imc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imc.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\imc.cshtml.cs",
+              "RelativeDocumentMoniker": "IMC\\Pages\\imc.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\imc.cshtml.cs",
+              "RelativeToolTip": "IMC\\Pages\\imc.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:26:05.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imc.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\imc.cshtml",
+              "RelativeDocumentMoniker": "IMC\\Pages\\imc.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\imc.cshtml",
+              "RelativeToolTip": "IMC\\Pages\\imc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T05:26:01.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "evaluarExpresion.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\evaluarExpresion.cshtml.cs",
+              "RelativeDocumentMoniker": "IMC\\Pages\\evaluarExpresion.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\evaluarExpresion.cshtml.cs",
+              "RelativeToolTip": "IMC\\Pages\\evaluarExpresion.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:25:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "evaluarExpresion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\evaluarExpresion.cshtml",
+              "RelativeDocumentMoniker": "IMC\\Pages\\evaluarExpresion.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\evaluarExpresion.cshtml",
+              "RelativeToolTip": "IMC\\Pages\\evaluarExpresion.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T05:25:46.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "arreglo.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\arreglo.cshtml.cs",
+              "RelativeDocumentMoniker": "IMC\\Pages\\arreglo.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\arreglo.cshtml.cs",
+              "RelativeToolTip": "IMC\\Pages\\arreglo.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:25:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arreglo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\arreglo.cshtml",
+              "RelativeDocumentMoniker": "IMC\\Pages\\arreglo.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\arreglo.cshtml",
+              "RelativeToolTip": "IMC\\Pages\\arreglo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T05:25:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "abc.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\abc.cshtml.cs",
+              "RelativeDocumentMoniker": "IMC\\Pages\\abc.cshtml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\abc.cshtml.cs",
+              "RelativeToolTip": "IMC\\Pages\\abc.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T05:25:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "abc.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\abc.cshtml",
+              "RelativeDocumentMoniker": "IMC\\Pages\\abc.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\Pages\\abc.cshtml",
+              "RelativeToolTip": "IMC\\Pages\\abc.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-19T05:25:17.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\.gitignore",
+              "RelativeDocumentMoniker": "IMC\\.gitignore",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\IMC\\IMC\\.gitignore",
+              "RelativeToolTip": "IMC\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-16T00:15:51.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

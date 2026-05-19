@@ -1,0 +1,32 @@
+﻿@page
+@model IMC.Pages.abcModel
+@{
+}
+
+
+<h2>Programa de Cifrado</h2>
+
+<form method="post">
+
+    <p>
+        Mensaje:
+        <input type="text" asp-for="texto" />
+    </p>
+
+    <p>
+        Valor de n:
+        <input type="number" asp-for="n" />
+    </p>
+
+    <p>
+        <input type="submit" value="Codificar" />
+    </p>
+
+</form>
+
+@if (Model.resultado != "")
+{
+    <h3>Mensaje cifrado:</h3>
+
+    <p>@Model.resultado</p>
+}

@@ -1,0 +1,97 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<style>
+        /* Fondo suave y degradado */
+        .hero-programs {
+            background: linear-gradient(135deg, #2b2d42 0%, #1e1f2c 100%);
+            padding: 4rem 2rem;
+            border-radius: 2rem;
+            margin: 2rem auto;
+            box-shadow: 0 20px 35px -10px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
+        /* Efecto de brillo en el título */
+        .display-4 {
+            font-weight: 800;
+            background: linear-gradient(120deg, #ffffff, #a8dadc);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            text-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            letter-spacing: -0.5px;
+        }
+        /* Ícono de C# con animación sutil */
+        .csharp-icon {
+            font-size: 4rem;
+            color: #9b4d96;
+            background: rgba(255,255,255,0.1);
+            width: 90px;
+            height: 90px;
+            line-height: 1.4;
+            border-radius: 50%;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1rem;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .csharp-icon:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(155, 77, 150, 0.5);
+        }
+        /* Estilo para el texto C# */
+        .csharp-text {
+            font-size: 1.8rem;
+            font-weight: 600;
+            background: linear-gradient(135deg, #f0f0f0, #c0c0c0);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+            letter-spacing: 1px;
+        }
+        .badge-csharp {
+            background-color: #67217a;
+            padding: 0.4rem 1rem;
+            border-radius: 40px;
+            font-size: 1rem;
+            font-weight: 500;
+        }
+        /* Decoración de líneas */
+        .hero-programs hr {
+            width: 80px;
+            height: 3px;
+            background: #9b4d96;
+            opacity: 0.7;
+            margin: 1rem auto;
+        }
+    </style>
+
+<div class="container">
+    <!-- INICIO BONITO - Programas C# -->
+    <div class="hero-programs text-center">
+        <!-- Ícono decorativo -->
+        
+            
+        <!-- Título principal -->
+        <h1 class="display-4 mb-2">Programas</h1>
+        <!-- Línea decorativa -->
+        <hr>
+            
+        <!-- Subtítulo con estilo -->
+        <p class="csharp-text mb-3">
+            <i class="fas fa-code"></i> C#
+            
+        </p>
+            
+        <!-- Pequeña descripción inspiradora (opcional pero le da vida) -->
+        <p class="text-white-50 mt-3" style="max-width: 500px; margin: 0 auto;">
+            <i class="fas fa-crown"></i> Código limpio, soluciones poderosas
+        </p>
+            
+        
+    </div>
+</div>
